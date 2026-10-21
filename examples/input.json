@@ -1,0 +1,7 @@
+{
+  "queries": ["DANONE", "552032534"],
+  "departments": ["75"],
+  "nafCodes": ["62.01Z"],
+  "status": "active",
+  "maxResultsPerQuery": 100
+}
